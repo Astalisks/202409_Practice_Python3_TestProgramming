@@ -1,1 +1,5 @@
 # 202409_Practice_Python3_TestProgramming
+
+unittestと同値クラステスト、境界値テスト
+関数のモック
+（誤）FastAPIを用いたテストプログラミング
